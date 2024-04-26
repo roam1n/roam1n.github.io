@@ -59,4 +59,10 @@ export const SOCIALS: Socials = [
     TEXT: "女孩们的GODOT时间",
     HREF: "https://discord.gg/juHnGWgQNW",
   },
+  {
+    NAME: "微信群",
+    ICON: "wechat",
+    TEXT: "有二维码的飞书文档",
+    HREF: "https://r1x3axx41x.feishu.cn/docx/JOejdjgsRokJwTxjiHhcwrWknOf",
+  }
 ]
